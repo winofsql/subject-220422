@@ -22,10 +22,11 @@ Microsoft Excel がインストールされている必要があります
 <td>
 <img src="https://winofsql.jp/image/a/excel-spec-2.png">
 <pre>2) 画面設計書
-　最近では画面の画像をはりつける事がほとん
-　どです
-<br>
-</pre>
+　最近では
+  画面の画像を
+  はりつける事が
+  ほとんどです
+ </pre>
 </td>
 </tr>
 <tr>
