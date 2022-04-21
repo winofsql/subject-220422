@@ -12,7 +12,7 @@ Microsoft Excel がインストールされている必要があります
 作成されるのは、非常にシンプルな4種類の設計書フォーマットです。
 </pre>
 <table id="spec"><tbody><tr>
-<td><img src="https://winofsql.jp/image/a/excel-spec-1.png">
+<td style="vertical-align:top"><img src="https://winofsql.jp/image/a/excel-spec-1.png">
 <pre>1) 概要書
 　処理を中心とした入出力をオートシェイプの
 　フローチャートで示し、概要を記述して正確
