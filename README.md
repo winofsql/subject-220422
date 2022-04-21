@@ -20,7 +20,7 @@ Microsoft Excel がインストールされている必要があります
 </pre>
 </td> 
 <td>
-<img src="https://winofsql.jp/image/a/excel-spec-2.png" style="width:50%;border:1px solid #c0c0c0;border-radius:0px">
+<img src="https://winofsql.jp/image/a/excel-spec-2.png">
 <pre>2) 画面設計書
 　最近では画面の画像をはりつける事がほとん
 　どです
