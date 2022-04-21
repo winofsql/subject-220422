@@ -12,7 +12,7 @@ Microsoft Excel がインストールされている必要があります
 作成されるのは、非常にシンプルな4種類の設計書フォーマットです。
 </pre>
 <table id="spec"><tbody><tr>
-<td><img src="https://winofsql.jp/image/a/excel-spec-1.png" style="width:50%;border:1px solid #c0c0c0;border-radius:0px">
+<td><img src="https://winofsql.jp/image/a/excel-spec-1.png">
 <pre>1) 概要書
 　処理を中心とした入出力をオートシェイプの
 　フローチャートで示し、概要を記述して正確
@@ -29,7 +29,7 @@ Microsoft Excel がインストールされている必要があります
 </tr>
 <tr>
 <td>
-<img src="https://winofsql.jp/image/a/excel-spec-3.png" style="width:50%;border:1px solid #c0c0c0;border-radius:0px">
+<img src="https://winofsql.jp/image/a/excel-spec-3.png">
 <pre>3) 入力設計書
 　入力チェックを中心とした GUI の操作手順を
 　ベースとしてアプリケーションの定義をして
@@ -38,7 +38,7 @@ Microsoft Excel がインストールされている必要があります
 </pre>
 </td> 
 <td>
-<img src="https://winofsql.jp/image/a/excel-spec-4.png" style="width:50%;border:1px solid #c0c0c0;border-radius:0px">
+<img src="https://winofsql.jp/image/a/excel-spec-4.png">
 <pre>4) 出力設計書
 　更新処理はここで記述されます。最近では、
 　DBテーブルの更新仕様と考えて良いでしょう。
