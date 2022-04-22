@@ -8,7 +8,7 @@
 $aaa = "こんにちは";
 
 $a = <<<AAA
-<INPUT value="{$aaa}">
+  <INPUT value="{$aaa}">
 AAA;
 
 print $a;
