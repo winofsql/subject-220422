@@ -9,4 +9,5 @@
 - ### 販売管理.xls
 
 - ### sqlite3.accdb
-  - S3-LIGHTBOX
+  - S3-LIGHTBOX\
+  ![image](https://user-images.githubusercontent.com/1501327/164622947-72976b24-8d2c-40ca-ad56-a4697cc8d67b.png)
