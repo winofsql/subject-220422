@@ -1,7 +1,7 @@
 ## デベロッパーツール
 
 ### リアルタイムで CSS 設定( インラインスタイル )
-![image](https://user-images.githubusercontent.com/1501327/164596486-4389f027-95b9-419b-b27d-5a0396539fd3.png)
+![image](https://user-images.githubusercontent.com/1501327/164596988-0f93b5b2-52ba-4b49-9930-84160c7cfdea.png)
 
 
 ### JavaScript 無効
