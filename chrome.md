@@ -4,7 +4,8 @@
 ![image](https://user-images.githubusercontent.com/1501327/164596988-0f93b5b2-52ba-4b49-9930-84160c7cfdea.png)
 
 ### 属性名と属性値のコピー
-- 属性をダブルクリック
+- 属性をダブルクリック\
+![image](https://user-images.githubusercontent.com/1501327/164597871-b295a765-97fc-496e-a4f3-045499cc9885.png)
 - CTRL + A
 - CTRL + C
 
