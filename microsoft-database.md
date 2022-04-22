@@ -1,12 +1,12 @@
 ## Microsoft Database
 
-### - 販売管理.accdb
+- ### 販売管理.accdb
 
-### - 販売管理.mdb
+- ### 販売管理.mdb
 
-### - 販売管理.xlsx
+- ### 販売管理.xlsx
 
-### - 販売管理.xls
+- ### 販売管理.xls
 
-### - sqlite3.accdb
+- ### sqlite3.accdb
   - S3-LIGHTBOX
