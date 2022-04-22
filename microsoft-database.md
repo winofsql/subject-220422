@@ -7,3 +7,5 @@
 ### - 販売管理.xlsx
 
 ### - 販売管理.xls
+
+### - sqlite3.accdb
