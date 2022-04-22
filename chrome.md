@@ -13,6 +13,10 @@
 ### F2 で全ての HTML を編集対象にする
 ![image](https://user-images.githubusercontent.com/1501327/164598980-2e363344-0268-42b7-97d6-047a1689b129.png)
 
+### 色を見た目で決定して色コードで設定
+![image](https://user-images.githubusercontent.com/1501327/164599596-c1ec040d-b165-49cf-9954-8f3d0f848199.png)
+
+
 
 ### JavaScript 無効
 ![image](https://user-images.githubusercontent.com/1501327/164588374-a34773bc-d2dc-4c9a-b50a-443aa3c54785.png)
