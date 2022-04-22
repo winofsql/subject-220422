@@ -1,7 +1,7 @@
 ## Python
 
 ### アップロード後のパーミッションの変更
-![image](https://user-images.githubusercontent.com/1501327/164583048-96826dd9-aab3-4f24-bf39-04d8ad2d5cc4.png)\
+![image](https://user-images.githubusercontent.com/1501327/164583307-9b39a7f8-ee85-476e-8506-d867325edcee.png)\
 ![image](https://user-images.githubusercontent.com/1501327/164582975-0cb41cf0-ab4b-4bac-a001-247b09bc6193.png)
 
 
