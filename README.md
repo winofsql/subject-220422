@@ -1,5 +1,22 @@
 # subject-220422
 
+## PHP : [ヒアドキュメント構文](https://www.php.net/manual/ja/language.types.string.php#language.types.string.syntax.heredoc)
+```php
+<?php
+// Your code here!
+
+$aaa = "こんにちは";
+
+$a = <<<AAA
+<INPUT value="{$aaa}">
+AAA;
+
+print $a;
+
+?>
+```
+
+
 ## [簡易詳細設計書(A4)作成 : VBScript + Excel.Application](https://winofsql.jp/download/create-spec-format.zip)
 
 <pre>
