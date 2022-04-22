@@ -10,6 +10,9 @@
 ![image](https://user-images.githubusercontent.com/1501327/164598465-f95d934f-3e8b-4a96-b62a-8f624db3a2a0.png)
 - CTRL + C
 
+### F2 で全ての HTML を編集対象にする
+![image](https://user-images.githubusercontent.com/1501327/164598980-2e363344-0268-42b7-97d6-047a1689b129.png)
+
 
 ### JavaScript 無効
 ![image](https://user-images.githubusercontent.com/1501327/164588374-a34773bc-d2dc-4c9a-b50a-443aa3c54785.png)
