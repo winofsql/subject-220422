@@ -1,5 +1,9 @@
 ## Python
 
+### アップロード後の変更
+![image](https://user-images.githubusercontent.com/1501327/164582975-0cb41cf0-ab4b-4bac-a001-247b09bc6193.png)
+
+
 ```py
 view = f"""<!DOCTYPE html>
 <html>
