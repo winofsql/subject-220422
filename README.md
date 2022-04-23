@@ -4,15 +4,16 @@
 ### [paiza.io で実行](https://paiza.io/projects/vn-eEHX93n_QMC8735ODMA)
 ```php
 <?php
-// Your code here!
 
-$aaa = "こんにちは";
+$default_value = "こんにちは";
 
-$a = <<<AAA
-  <INPUT value="{$aaa}">
+$view = <<<AAA
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.3/css/bootstrap.min.css">
+    <div class="alert alert-primary">ヒアドキュメント</div>
+    <input value="{$default_value}">
 AAA;
 
-print $a;
+print $view;
 
 ?>
 ```
