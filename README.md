@@ -1,6 +1,6 @@
 # subject-220422
 
-## PHP : [ヒアドキュメント構文](https://www.php.net/manual/ja/language.types.string.php#language.types.string.syntax.heredoc)paiza
+## PHP : [ヒアドキュメント構文](https://www.php.net/manual/ja/language.types.string.php#language.types.string.syntax.heredoc)
 ### [paiza.io で実行](https://paiza.io/projects/vn-eEHX93n_QMC8735ODMA)
 ```php
 <?php
